@@ -16,35 +16,35 @@ module.exports = {
     },
   },
 
-  darkMode: "class",
+  // darkMode: "class",
   plugins: [
-    nextui({
-      themes: {
-        light: {
-          layout: {},
-          colors: {
-            background: "#FFFDF7",
-            foreground: "#0a2342",
-            content1: "#D9EDE2",
-            content2: "#A2D2B7",
-            content3: "#85BC9D", // used for card, modal, popover, etc.
-            content4: "#D9EDE2", // used for card, modal, popover, etc.
-            primary: {
-              DEFAULT: "#A2D2B7",
-              foreground: "#0a2342",
-            },
-            focus: "#85BC9D",
-          },
-        },
-      },
-      dark: {
-        layout: {},
-        colors: {
-          background: "#0A0800",
-          foreground: "#BCD6F5",
-          content1: "#12261B",
-        },
-      },
-    }),
+    // nextui({
+    //   themes: {
+    //     light: {
+    //       layout: {},
+    //       colors: {
+    //         background: "#FFFDF7",
+    //         foreground: "#0a2342",
+    //         content1: "#D9EDE2",
+    //         content2: "#A2D2B7",
+    //         content3: "#85BC9D", // used for card, modal, popover, etc.
+    //         content4: "#D9EDE2", // used for card, modal, popover, etc.
+    //         primary: {
+    //           DEFAULT: "#A2D2B7",
+    //           foreground: "#0a2342",
+    //         },
+    //         focus: "#85BC9D",
+    //       },
+    //     },
+    //   },
+    //   dark: {
+    //     layout: {},
+    //     colors: {
+    //       background: "#0A0800",
+    //       foreground: "#BCD6F5",
+    //       content1: "#12261B",
+    //     },
+    //   },
+    // }),
   ],
 };
