@@ -3,7 +3,12 @@ import React from "react";
 import Markdown from "markdown-to-jsx";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import { dracula } from "react-syntax-highlighter/dist/esm/styles/prism";
+
+import ReactMarkdown from "react-markdown";
+import gfm from "remark-gfm";
 import TeX from "@matejmazur/react-katex";
+
+import DOMPurify from "dompurify";
 
 export interface MessageProps {
   role: "bot" | "user";
@@ -28,12 +33,12 @@ export default function Message({ role, message, className }: MessageProps) {
         className={cn(
           " p-4",
           role === "user"
-            ? "bg-purple-900/20 rounded-2xl max-w-[400px] w-fit"
+            ? "bg-purple-900/20 rounded-2xl max-w-[500px] w-fit"
             : "w-fit",
           className
         )}
       >
-        <Markdown
+        {/* <Markdown
           options={{
             overrides: {
               code: ({ children, className, ...props }) => {
@@ -56,7 +61,9 @@ export default function Message({ role, message, className }: MessageProps) {
           }}
         >
           {message}
-        </Markdown>
+        </Markdown> */}
+
+        <ReactMarkdown remarkPlugins={[gfm]}>{message}</ReactMarkdown>
       </div>
     </div>
   );

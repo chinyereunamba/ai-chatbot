@@ -6,6 +6,7 @@ import { Providers } from "./providers";
 
 import { siteConfig } from "@/config/site";
 import { fontSans } from "@/config/fonts";
+import { getServerSession } from "next-auth";
 
 export const metadata: Metadata = {
   title: {
@@ -25,11 +26,12 @@ export const viewport: Viewport = {
   ],
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: {
   children: React.ReactNode;
-}) {
+  }) {
+  const session = await getServerSession();
   return (
     <html suppressHydrationWarning lang="en">
       <head />
@@ -39,7 +41,7 @@ export default function RootLayout({
           fontSans.variable,
         )}
       >
-        <Providers>{children}</Providers>
+        <Providers session={session}>{children}</Providers>
       </body>
     </html>
   );

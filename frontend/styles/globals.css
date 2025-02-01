@@ -2,3 +2,27 @@
 @tailwind components;
 @tailwind utilities;
 
+p {
+  font-size: 18px;
+}
+
+think {
+  position: relative;
+  font-size: 15px;
+  font-style: italic;
+  padding-left: 20px;
+}
+
+think::after {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 2px;
+  background: white;
+  left: 0;
+  top: 0;
+}
+
+hr{
+    padding-block: 10px;
+}
