@@ -1,0 +1,1002 @@
+[
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncIOMotorClient",
+        "importPath": "motor.motor_asyncio",
+        "description": "motor.motor_asyncio",
+        "isExtraImport": true,
+        "detail": "motor.motor_asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocket",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "ollama",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ollama",
+        "description": "ollama",
+        "detail": "ollama",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "PdfFileReader",
+        "importPath": "PyPDF2",
+        "description": "PyPDF2",
+        "isExtraImport": true,
+        "detail": "PyPDF2",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "docx",
+        "description": "docx",
+        "isExtraImport": true,
+        "detail": "docx",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "importPath": "flatted",
+        "description": "flatted",
+        "isExtraImport": true,
+        "detail": "flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "importPath": "flatted",
+        "description": "flatted",
+        "isExtraImport": true,
+        "detail": "flatted",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "TTFont",
+        "importPath": "fontTools.ttLib",
+        "description": "fontTools.ttLib",
+        "isExtraImport": true,
+        "detail": "fontTools.ttLib",
+        "documentation": {}
+    },
+    {
+        "label": "sfnt",
+        "importPath": "fontTools.ttLib",
+        "description": "fontTools.ttLib",
+        "isExtraImport": true,
+        "detail": "fontTools.ttLib",
+        "documentation": {}
+    },
+    {
+        "label": "TTFont",
+        "importPath": "fontTools.ttLib",
+        "description": "fontTools.ttLib",
+        "isExtraImport": true,
+        "detail": "fontTools.ttLib",
+        "documentation": {}
+    },
+    {
+        "label": "timestampNow",
+        "importPath": "fontTools.misc.timeTools",
+        "description": "fontTools.misc.timeTools",
+        "isExtraImport": true,
+        "detail": "fontTools.misc.timeTools",
+        "documentation": {}
+    },
+    {
+        "label": "collections",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "collections",
+        "description": "collections",
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "parse_tfm",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "parse_tfm",
+        "description": "parse_tfm",
+        "detail": "parse_tfm",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "hash_password",
+        "kind": 2,
+        "importPath": "backend.auth",
+        "description": "backend.auth",
+        "peekOfCode": "def hash_password(password: str) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + (expires_delta or timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES))\n    to_encode.update({\"exp\": expire})\n    return jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\ndef decode_access_token(token: str):",
+        "detail": "backend.auth",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "backend.auth",
+        "description": "backend.auth",
+        "peekOfCode": "def verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + (expires_delta or timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES))\n    to_encode.update({\"exp\": expire})\n    return jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\ndef decode_access_token(token: str):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])",
+        "detail": "backend.auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "backend.auth",
+        "description": "backend.auth",
+        "peekOfCode": "def create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + (expires_delta or timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES))\n    to_encode.update({\"exp\": expire})\n    return jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)\ndef decode_access_token(token: str):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        return payload\n    except JWTError:",
+        "detail": "backend.auth",
+        "documentation": {}
+    },
+    {
+        "label": "decode_access_token",
+        "kind": 2,
+        "importPath": "backend.auth",
+        "description": "backend.auth",
+        "peekOfCode": "def decode_access_token(token: str):\n    try:\n        payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])\n        return payload\n    except JWTError:\n        return None",
+        "detail": "backend.auth",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "backend.auth",
+        "description": "backend.auth",
+        "peekOfCode": "SECRET_KEY = \"your_secret_key_here\"\nALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 60 \n# Password hashing\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef hash_password(password: str) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):",
+        "detail": "backend.auth",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "backend.auth",
+        "description": "backend.auth",
+        "peekOfCode": "ALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 60 \n# Password hashing\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef hash_password(password: str) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()",
+        "detail": "backend.auth",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "backend.auth",
+        "description": "backend.auth",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = 60 \n# Password hashing\npwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef hash_password(password: str) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + (expires_delta or timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES))",
+        "detail": "backend.auth",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "backend.auth",
+        "description": "backend.auth",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef hash_password(password: str) -> str:\n    return pwd_context.hash(password)\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef create_access_token(data: dict, expires_delta: Optional[timedelta] = None):\n    to_encode = data.copy()\n    expire = datetime.utcnow() + (expires_delta or timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES))\n    to_encode.update({\"exp\": expire})\n    return jwt.encode(to_encode, SECRET_KEY, algorithm=ALGORITHM)",
+        "detail": "backend.auth",
+        "documentation": {}
+    },
+    {
+        "label": "MONGO_URI",
+        "kind": 5,
+        "importPath": "backend.database",
+        "description": "backend.database",
+        "peekOfCode": "MONGO_URI = \"mongodb://localhost:27017\"\nDB_NAME = \"chat_ai\"\nclient = AsyncIOMotorClient(MONGO_URI)\ndb = client[DB_NAME]\nchat_collection = db[\"chats\"]\nusers_collection = db[\"users\"]",
+        "detail": "backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME",
+        "kind": 5,
+        "importPath": "backend.database",
+        "description": "backend.database",
+        "peekOfCode": "DB_NAME = \"chat_ai\"\nclient = AsyncIOMotorClient(MONGO_URI)\ndb = client[DB_NAME]\nchat_collection = db[\"chats\"]\nusers_collection = db[\"users\"]",
+        "detail": "backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "backend.database",
+        "description": "backend.database",
+        "peekOfCode": "client = AsyncIOMotorClient(MONGO_URI)\ndb = client[DB_NAME]\nchat_collection = db[\"chats\"]\nusers_collection = db[\"users\"]",
+        "detail": "backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "backend.database",
+        "description": "backend.database",
+        "peekOfCode": "db = client[DB_NAME]\nchat_collection = db[\"chats\"]\nusers_collection = db[\"users\"]",
+        "detail": "backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "chat_collection",
+        "kind": 5,
+        "importPath": "backend.database",
+        "description": "backend.database",
+        "peekOfCode": "chat_collection = db[\"chats\"]\nusers_collection = db[\"users\"]",
+        "detail": "backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "users_collection",
+        "kind": 5,
+        "importPath": "backend.database",
+        "description": "backend.database",
+        "peekOfCode": "users_collection = db[\"users\"]",
+        "detail": "backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "ChatRequest",
+        "kind": 6,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "class ChatRequest(BaseModel):\n    message: str\nchat_history = []\nMODEL_NAME = \"deepseek-r1:1.5b\"\nasync def generate_response(message: str):\n    \"\"\"Streams AI response incrementally\"\"\"\n    def get_stream():\n        return ollama.chat(\n            model=MODEL_NAME,\n            messages=[{\"role\": \"user\", \"content\": message}],",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "read_file",
+        "kind": 2,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "def read_file(file_path):\n    ext: str = os.path.splitext(file_path)[1]\n    file_extension = ext.lower()\n    if file_extension == \".pdf\":\n        reader = PdfFileReader(file_path)\n        text = \"\".join(\n            [page.extract_text()] for page in reader.pages if page.extract_text()\n        )\n    elif file_extension == \"docx\" or file_extension == \"odt\":\n        doc = Document(file_path)",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "origins = [\n    'http://localhost:3000'\n]\napp = FastAPI()\napp.include_router(user_router, prefix='/auth', tags=['auth'])\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "app = FastAPI()\napp.include_router(user_router, prefix='/auth', tags=['auth'])\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nclass ChatRequest(BaseModel):",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "chat_history",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "chat_history = []\nMODEL_NAME = \"deepseek-r1:1.5b\"\nasync def generate_response(message: str):\n    \"\"\"Streams AI response incrementally\"\"\"\n    def get_stream():\n        return ollama.chat(\n            model=MODEL_NAME,\n            messages=[{\"role\": \"user\", \"content\": message}],\n            stream=True,\n        )",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "MODEL_NAME",
+        "kind": 5,
+        "importPath": "backend.main",
+        "description": "backend.main",
+        "peekOfCode": "MODEL_NAME = \"deepseek-r1:1.5b\"\nasync def generate_response(message: str):\n    \"\"\"Streams AI response incrementally\"\"\"\n    def get_stream():\n        return ollama.chat(\n            model=MODEL_NAME,\n            messages=[{\"role\": \"user\", \"content\": message}],\n            stream=True,\n        )\n    # Run blocking code in a thread",
+        "detail": "backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "AuthRequest",
+        "kind": 6,
+        "importPath": "backend.user",
+        "description": "backend.user",
+        "peekOfCode": "class AuthRequest(BaseModel):\n    username: str\n    password: str\n@router.post(\"/register/\")\nasync def register(data: AuthRequest):\n    existing_user = await users_collection.find_one({\"username\": data.username})\n    if existing_user:\n        raise HTTPException(status_code=400, detail=\"Username already exists\")\n    hashed_pw = hash_password(data.password)\n    new_user = {\"username\": data.username, \"password\": hashed_pw}",
+        "detail": "backend.user",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.user",
+        "description": "backend.user",
+        "peekOfCode": "router = APIRouter()\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"/auth/token\")\nclass AuthRequest(BaseModel):\n    username: str\n    password: str\n@router.post(\"/register/\")\nasync def register(data: AuthRequest):\n    existing_user = await users_collection.find_one({\"username\": data.username})\n    if existing_user:\n        raise HTTPException(status_code=400, detail=\"Username already exists\")",
+        "detail": "backend.user",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "backend.user",
+        "description": "backend.user",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"/auth/token\")\nclass AuthRequest(BaseModel):\n    username: str\n    password: str\n@router.post(\"/register/\")\nasync def register(data: AuthRequest):\n    existing_user = await users_collection.find_one({\"username\": data.username})\n    if existing_user:\n        raise HTTPException(status_code=400, detail=\"Username already exists\")\n    hashed_pw = hash_password(data.password)",
+        "detail": "backend.user",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.flatted",
+        "description": "frontend.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "frontend.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "def stringify(value):\n    return _stringify(value, separators=(',', ':'))\nassert stringify([None, None]) == '[[null,null]]'\na = []\no = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "a = []\no = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o = {}\nassert stringify(a) == '[[]]'\nassert stringify(o) == '[{}]'\na.append(a)\no['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['o']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['o'] = o\nassert stringify(a) == '[[\"0\"]]'\nassert stringify(o) == '[{\"o\":\"0\"}]'\nb = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)\na.append('two')\na.append(True)\no['one'] = 1\no['two'] = 'two'",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "b = parse(stringify(a))\nassert isinstance(b, list) and b[0] == b\na.append(1)\na.append('two')\na.append(True)\no['one'] = 1\no['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['one']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['one'] = 1\no['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['two']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['two'] = 'two'\no['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['three']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['three'] = True\nassert stringify(a) == '[[\"0\",1,\"1\",true],\"two\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true},\"two\"]'\na.append(o)\no['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])\no['test'] = {'test': 'OK'}",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['a']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['a'] = a\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\"}]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\"},\"two\",[\"2\",1,\"1\",true,\"0\"]]'\na.append({'test': 'OK'})\na.append([1, 2, 3])\no['test'] = {'test': 'OK'}\no['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['test']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['test'] = {'test': 'OK'}\no['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o['array']",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o['array'] = [1, 2, 3]\nassert stringify(a) == '[[\"0\",1,\"1\",true,\"2\",\"3\",\"4\"],\"two\",{\"o\":\"2\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"0\",\"test\":\"3\",\"array\":\"4\"},{\"test\":\"5\"},[1,2,3],\"OK\"]'\nassert stringify(o) == '[{\"o\":\"0\",\"one\":1,\"two\":\"1\",\"three\":true,\"a\":\"2\",\"test\":\"3\",\"array\":\"4\"},\"two\",[\"2\",1,\"1\",true,\"0\",\"3\",\"4\"],{\"test\":\"5\"},[1,2,3],\"OK\"]'\na2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "a2",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "a2 = parse(stringify(a));\no2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "o2",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "o2 = parse(stringify(o));\nassert a2[0] == a2\nassert o2['o'] == o2\nassert a2[1] == 1 and a2[2] == 'two' and a2[3] == True and isinstance(a2[4], dict)\nassert a2[4] == a2[4]['o'] and a2 == a2[4]['o']['a']\nstr = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "str = parse('[{\"prop\":\"1\",\"a\":\"2\",\"b\":\"3\"},{\"value\":123},[\"4\",\"5\"],{\"e\":\"6\",\"t\":\"7\",\"p\":4},{},{\"b\":\"8\"},\"f\",{\"a\":\"9\"},[\"10\"],\"sup\",{\"a\":1,\"d\":2,\"c\":\"7\",\"z\":\"11\",\"h\":1},{\"g\":2,\"a\":\"7\",\"b\":\"12\",\"f\":6},{\"r\":4,\"u\":\"7\",\"c\":5}]')\nassert str['b']['t']['a'] == 'sup' and str['a'][1]['b'][0]['c'] == str['b']['t']\noo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "oo",
+        "kind": 5,
+        "importPath": "frontend.node_modules.flatted.python.test",
+        "description": "frontend.node_modules.flatted.python.test",
+        "peekOfCode": "oo = parse('[{\"a\":\"1\",\"b\":\"0\",\"c\":\"2\"},{\"aa\":\"3\"},{\"ca\":\"4\",\"cb\":\"5\",\"cc\":\"6\",\"cd\":\"7\",\"ce\":\"8\",\"cf\":\"9\"},{\"aaa\":\"10\"},{\"caa\":\"4\"},{\"cba\":\"5\"},{\"cca\":\"2\"},{\"cda\":\"4\"},\"value2\",\"value3\",\"value1\"]');\nassert oo['a']['aa']['aaa'] == 'value1' and oo == oo['b'] and oo['c']['ca']['caa'] == oo['c']['ca']\nprint('OK')",
+        "detail": "frontend.node_modules.flatted.python.test",
+        "documentation": {}
+    },
+    {
+        "label": "sfnt.USE_ZOPFLI",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "sfnt.USE_ZOPFLI = True\nif len(sys.argv) < 2:\n    print(\"Usage: %s <font file>\" % sys.argv[0])\n    sys.exit(1)\nfont_file = sys.argv[1]\nfont_name = os.path.splitext(os.path.basename(font_file))[0]\nfont = TTFont(font_file, recalcBBoxes=False, recalcTimestamp=False)\n# fix timestamp to the epoch\nfont['head'].created = 0\nfont['head'].modified = 0",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "font_file",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "font_file = sys.argv[1]\nfont_name = os.path.splitext(os.path.basename(font_file))[0]\nfont = TTFont(font_file, recalcBBoxes=False, recalcTimestamp=False)\n# fix timestamp to the epoch\nfont['head'].created = 0\nfont['head'].modified = 0\n# remove fontforge timestamps\nif 'FFTM' in font:\n    del font['FFTM']\n# remove redundant GDEF table",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "font_name",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "font_name = os.path.splitext(os.path.basename(font_file))[0]\nfont = TTFont(font_file, recalcBBoxes=False, recalcTimestamp=False)\n# fix timestamp to the epoch\nfont['head'].created = 0\nfont['head'].modified = 0\n# remove fontforge timestamps\nif 'FFTM' in font:\n    del font['FFTM']\n# remove redundant GDEF table\nif 'GDEF' in font:",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "font",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "font = TTFont(font_file, recalcBBoxes=False, recalcTimestamp=False)\n# fix timestamp to the epoch\nfont['head'].created = 0\nfont['head'].modified = 0\n# remove fontforge timestamps\nif 'FFTM' in font:\n    del font['FFTM']\n# remove redundant GDEF table\nif 'GDEF' in font:\n    del font['GDEF']",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "font['head'].created",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "font['head'].created = 0\nfont['head'].modified = 0\n# remove fontforge timestamps\nif 'FFTM' in font:\n    del font['FFTM']\n# remove redundant GDEF table\nif 'GDEF' in font:\n    del font['GDEF']\n# remove Macintosh table\n# https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6cmap.html",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "font['head'].modified",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "font['head'].modified = 0\n# remove fontforge timestamps\nif 'FFTM' in font:\n    del font['FFTM']\n# remove redundant GDEF table\nif 'GDEF' in font:\n    del font['GDEF']\n# remove Macintosh table\n# https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6cmap.html\nfont['name'].names = [record for record in font['name'].names if record.platformID != 1]",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "font['name'].names",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "font['name'].names = [record for record in font['name'].names if record.platformID != 1]\nfont['cmap'].tables = [table for table in font['cmap'].tables if table.platformID != 1]\n# fix OS/2 and hhea metrics\nglyf = font['glyf']\nascent = int(max(glyf[c].yMax for c in font.getGlyphOrder() if hasattr(glyf[c], \"yMax\")))\ndescent = -int(min(glyf[c].yMin for c in font.getGlyphOrder() if hasattr(glyf[c], \"yMin\")))\nfont['OS/2'].usWinAscent = ascent\nfont['OS/2'].usWinDescent = descent\nfont['hhea'].ascent = ascent\nfont['hhea'].descent = -descent",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "font['cmap'].tables",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "font['cmap'].tables = [table for table in font['cmap'].tables if table.platformID != 1]\n# fix OS/2 and hhea metrics\nglyf = font['glyf']\nascent = int(max(glyf[c].yMax for c in font.getGlyphOrder() if hasattr(glyf[c], \"yMax\")))\ndescent = -int(min(glyf[c].yMin for c in font.getGlyphOrder() if hasattr(glyf[c], \"yMin\")))\nfont['OS/2'].usWinAscent = ascent\nfont['OS/2'].usWinDescent = descent\nfont['hhea'].ascent = ascent\nfont['hhea'].descent = -descent\n# save TTF",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "glyf",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "glyf = font['glyf']\nascent = int(max(glyf[c].yMax for c in font.getGlyphOrder() if hasattr(glyf[c], \"yMax\")))\ndescent = -int(min(glyf[c].yMin for c in font.getGlyphOrder() if hasattr(glyf[c], \"yMin\")))\nfont['OS/2'].usWinAscent = ascent\nfont['OS/2'].usWinDescent = descent\nfont['hhea'].ascent = ascent\nfont['hhea'].descent = -descent\n# save TTF\nfont.save(font_file, reorderTables=None)\n# save WOFF",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "ascent",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "ascent = int(max(glyf[c].yMax for c in font.getGlyphOrder() if hasattr(glyf[c], \"yMax\")))\ndescent = -int(min(glyf[c].yMin for c in font.getGlyphOrder() if hasattr(glyf[c], \"yMin\")))\nfont['OS/2'].usWinAscent = ascent\nfont['OS/2'].usWinDescent = descent\nfont['hhea'].ascent = ascent\nfont['hhea'].descent = -descent\n# save TTF\nfont.save(font_file, reorderTables=None)\n# save WOFF\nfont.flavor = 'woff'",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "descent",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "descent = -int(min(glyf[c].yMin for c in font.getGlyphOrder() if hasattr(glyf[c], \"yMin\")))\nfont['OS/2'].usWinAscent = ascent\nfont['OS/2'].usWinDescent = descent\nfont['hhea'].ascent = ascent\nfont['hhea'].descent = -descent\n# save TTF\nfont.save(font_file, reorderTables=None)\n# save WOFF\nfont.flavor = 'woff'\nfont.save(os.path.join('woff', font_name + '.woff'), reorderTables=None)",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "font['OS/2'].usWinAscent",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "font['OS/2'].usWinAscent = ascent\nfont['OS/2'].usWinDescent = descent\nfont['hhea'].ascent = ascent\nfont['hhea'].descent = -descent\n# save TTF\nfont.save(font_file, reorderTables=None)\n# save WOFF\nfont.flavor = 'woff'\nfont.save(os.path.join('woff', font_name + '.woff'), reorderTables=None)\n# save WOFF2",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "font['OS/2'].usWinDescent",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "font['OS/2'].usWinDescent = descent\nfont['hhea'].ascent = ascent\nfont['hhea'].descent = -descent\n# save TTF\nfont.save(font_file, reorderTables=None)\n# save WOFF\nfont.flavor = 'woff'\nfont.save(os.path.join('woff', font_name + '.woff'), reorderTables=None)\n# save WOFF2\nfont.flavor = 'woff2'",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "font['hhea'].ascent",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "font['hhea'].ascent = ascent\nfont['hhea'].descent = -descent\n# save TTF\nfont.save(font_file, reorderTables=None)\n# save WOFF\nfont.flavor = 'woff'\nfont.save(os.path.join('woff', font_name + '.woff'), reorderTables=None)\n# save WOFF2\nfont.flavor = 'woff2'\nfont.save(os.path.join('woff2', font_name + '.woff2'), reorderTables=None)",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "font['hhea'].descent",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "font['hhea'].descent = -descent\n# save TTF\nfont.save(font_file, reorderTables=None)\n# save WOFF\nfont.flavor = 'woff'\nfont.save(os.path.join('woff', font_name + '.woff'), reorderTables=None)\n# save WOFF2\nfont.flavor = 'woff2'\nfont.save(os.path.join('woff2', font_name + '.woff2'), reorderTables=None)",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "font.flavor",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "font.flavor = 'woff'\nfont.save(os.path.join('woff', font_name + '.woff'), reorderTables=None)\n# save WOFF2\nfont.flavor = 'woff2'\nfont.save(os.path.join('woff2', font_name + '.woff2'), reorderTables=None)",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "font.flavor",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "description": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "peekOfCode": "font.flavor = 'woff2'\nfont.save(os.path.join('woff2', font_name + '.woff2'), reorderTables=None)",
+        "detail": "frontend.node_modules.katex.src.fonts.generate_fonts",
+        "documentation": {}
+    },
+    {
+        "label": "find_font_path",
+        "kind": 2,
+        "importPath": "frontend.node_modules.katex.src.metrics.extract_tfms",
+        "description": "frontend.node_modules.katex.src.metrics.extract_tfms",
+        "peekOfCode": "def find_font_path(font_name):\n    try:\n        font_path = subprocess.check_output(['kpsewhich', font_name])\n    except OSError:\n        raise RuntimeError(\"Couldn't find kpsewhich program, make sure you\" +\n                           \" have TeX installed\")\n    except subprocess.CalledProcessError:\n        raise RuntimeError(\"Couldn't find font metrics: '%s'\" % font_name)\n    return font_path.strip()\ndef main():",
+        "detail": "frontend.node_modules.katex.src.metrics.extract_tfms",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "frontend.node_modules.katex.src.metrics.extract_tfms",
+        "description": "frontend.node_modules.katex.src.metrics.extract_tfms",
+        "peekOfCode": "def main():\n    mapping = json.load(sys.stdin)\n    fonts = [\n        'cmbsy10.tfm',\n        'cmbx10.tfm',\n        'cmbxti10.tfm',\n        'cmex10.tfm',\n        'cmmi10.tfm',\n        'cmmib10.tfm',\n        'cmr10.tfm',",
+        "detail": "frontend.node_modules.katex.src.metrics.extract_tfms",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "frontend.node_modules.katex.src.metrics.extract_ttfs",
+        "description": "frontend.node_modules.katex.src.metrics.extract_ttfs",
+        "peekOfCode": "def main():\n    start_json = json.load(sys.stdin)\n    for font in start_json:\n        fontInfo = TTFont(\"../../fonts/KaTeX_\" + font + \".ttf\")\n        glyf = fontInfo[\"glyf\"]\n        widths = fontInfo.getGlyphSet()\n        unitsPerEm = float(fontInfo[\"head\"].unitsPerEm)\n        # We keep ALL Unicode cmaps, not just fontInfo[\"cmap\"].getcmap(3, 1).\n        # This is playing it extra safe, since it reports inconsistencies.\n        # Platform 0 is Unicode, platform 3 is Windows. For platform 3,",
+        "detail": "frontend.node_modules.katex.src.metrics.extract_ttfs",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_to_extract",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.metrics.extract_ttfs",
+        "description": "frontend.node_modules.katex.src.metrics.extract_ttfs",
+        "peekOfCode": "metrics_to_extract = {\n    # Font name\n    \"AMS-Regular\": {\n        u\"\\u21e2\": None,  # \\dashrightarrow\n        u\"\\u21e0\": None,  # \\dashleftarrow\n    },\n    \"Main-Regular\": {\n        # Skew and italic metrics can't be easily parsed from the TTF. Instead,\n        # we map each character to a \"base character\", which is a character\n        # from the same font with correct italic and skew metrics. A character",
+        "detail": "frontend.node_modules.katex.src.metrics.extract_ttfs",
+        "documentation": {}
+    },
+    {
+        "label": "props",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.metrics.format_json",
+        "description": "frontend.node_modules.katex.src.metrics.format_json",
+        "peekOfCode": "props = ['depth', 'height', 'italic', 'skew']\nif len(sys.argv) > 1:\n    if sys.argv[1] == '--width':\n        props.append('width')\ndata = json.load(sys.stdin)\nsys.stdout.write(\n  \"// This file is GENERATED by buildMetrics.sh. DO NOT MODIFY.\\n\")\nsep = \"export default {\\n    \"\nfor font in sorted(data):\n    sys.stdout.write(sep + json.dumps(font))",
+        "detail": "frontend.node_modules.katex.src.metrics.format_json",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.metrics.format_json",
+        "description": "frontend.node_modules.katex.src.metrics.format_json",
+        "peekOfCode": "data = json.load(sys.stdin)\nsys.stdout.write(\n  \"// This file is GENERATED by buildMetrics.sh. DO NOT MODIFY.\\n\")\nsep = \"export default {\\n    \"\nfor font in sorted(data):\n    sys.stdout.write(sep + json.dumps(font))\n    sep = \": {\\n        \"\n    for glyph in sorted(data[font], key=int):\n        sys.stdout.write(sep + json.dumps(glyph) + \": \")\n        values = [value if value != 0.0 else 0 for value in",
+        "detail": "frontend.node_modules.katex.src.metrics.format_json",
+        "documentation": {}
+    },
+    {
+        "label": "sep",
+        "kind": 5,
+        "importPath": "frontend.node_modules.katex.src.metrics.format_json",
+        "description": "frontend.node_modules.katex.src.metrics.format_json",
+        "peekOfCode": "sep = \"export default {\\n    \"\nfor font in sorted(data):\n    sys.stdout.write(sep + json.dumps(font))\n    sep = \": {\\n        \"\n    for glyph in sorted(data[font], key=int):\n        sys.stdout.write(sep + json.dumps(glyph) + \": \")\n        values = [value if value != 0.0 else 0 for value in\n                  [data[font][glyph][key] for key in props]]\n        sys.stdout.write(json.dumps(values))\n        sep = \",\\n        \"",
+        "detail": "frontend.node_modules.katex.src.metrics.format_json",
+        "documentation": {}
+    },
+    {
+        "label": "CharInfoWord",
+        "kind": 6,
+        "importPath": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "description": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "peekOfCode": "class CharInfoWord(object):\n    def __init__(self, word):\n        b1, b2, b3, b4 = (word >> 24,\n                          (word & 0xff0000) >> 16,\n                          (word & 0xff00) >> 8,\n                          word & 0xff)\n        self.width_index = b1\n        self.height_index = b2 >> 4\n        self.depth_index = b2 & 0x0f\n        self.italic_index = (b3 & 0b11111100) >> 2",
+        "detail": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "documentation": {}
+    },
+    {
+        "label": "LigKernProgram",
+        "kind": 6,
+        "importPath": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "description": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "peekOfCode": "class LigKernProgram(object):\n    def __init__(self, program):\n        self.program = program\n    def execute(self, start, next_char):\n        curr_instruction = start\n        while True:\n            instruction = self.program[curr_instruction]\n            (skip, inst_next_char, op, remainder) = instruction\n            if inst_next_char == next_char:\n                if op < 128:",
+        "detail": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "documentation": {}
+    },
+    {
+        "label": "TfmCharMetrics",
+        "kind": 6,
+        "importPath": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "description": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "peekOfCode": "class TfmCharMetrics(object):\n    def __init__(self, width, height, depth, italic, kern_table):\n        self.width = width\n        self.height = height\n        self.depth = depth\n        self.italic_correction = italic\n        self.kern_table = kern_table\nclass TfmFile(object):\n    def __init__(self, start_char, end_char, char_info, width_table,\n                 height_table, depth_table, italic_table, ligkern_table,",
+        "detail": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "documentation": {}
+    },
+    {
+        "label": "TfmFile",
+        "kind": 6,
+        "importPath": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "description": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "peekOfCode": "class TfmFile(object):\n    def __init__(self, start_char, end_char, char_info, width_table,\n                 height_table, depth_table, italic_table, ligkern_table,\n                 kern_table):\n        self.start_char = start_char\n        self.end_char = end_char\n        self.char_info = char_info\n        self.width_table = width_table\n        self.height_table = height_table\n        self.depth_table = depth_table",
+        "detail": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "documentation": {}
+    },
+    {
+        "label": "TfmReader",
+        "kind": 6,
+        "importPath": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "description": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "peekOfCode": "class TfmReader(object):\n    def __init__(self, f):\n        self.f = f\n    def read_byte(self):\n        return ord(self.f.read(1))\n    def read_halfword(self):\n        b1 = self.read_byte()\n        b2 = self.read_byte()\n        return (b1 << 8) | b2\n    def read_word(self):",
+        "detail": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "documentation": {}
+    },
+    {
+        "label": "read_tfm_file",
+        "kind": 2,
+        "importPath": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "description": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "peekOfCode": "def read_tfm_file(file_name):\n    with open(file_name, 'rb') as f:\n        reader = TfmReader(f)\n        # file_size\n        reader.read_halfword()\n        header_size = reader.read_halfword()\n        start_char = reader.read_halfword()\n        end_char = reader.read_halfword()\n        width_table_size = reader.read_halfword()\n        height_table_size = reader.read_halfword()",
+        "detail": "frontend.node_modules.katex.src.metrics.parse_tfm",
+        "documentation": {}
+    }
+]

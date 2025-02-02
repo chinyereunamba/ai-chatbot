@@ -16,7 +16,8 @@ export interface MessageProps {
   className?: string;
 }
 
-export default function Message({ role, message, className }: MessageProps) {
+export default function Message({ role, message, className }: MessageProps){
+  console.log(message)
   return (
     <div
       className={cn(
@@ -31,14 +32,14 @@ export default function Message({ role, message, className }: MessageProps) {
       )}
       <div
         className={cn(
-          " p-4",
+          " px-4",
           role === "user"
             ? "bg-purple-900/20 rounded-2xl max-w-[500px] w-fit"
             : "w-fit",
           className
         )}
       >
-        {/* <Markdown
+        <Markdown
           options={{
             overrides: {
               code: ({ children, className, ...props }) => {
@@ -61,9 +62,9 @@ export default function Message({ role, message, className }: MessageProps) {
           }}
         >
           {message}
-        </Markdown> */}
+        </Markdown>
 
-        <ReactMarkdown remarkPlugins={[gfm]}>{message}</ReactMarkdown>
+        {/* <ReactMarkdown remarkPlugins={[gfm]}>{message}</ReactMarkdown> */}
       </div>
     </div>
   );
